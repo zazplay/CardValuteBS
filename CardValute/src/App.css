@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  vertical-align: top;
+  justify-content: center;
+  display: flex;
+  padding-top: 50px;
+  background-color: darkslateblue;
+  height: 1080px;
+}
+
